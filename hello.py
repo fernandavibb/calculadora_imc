@@ -50,7 +50,7 @@ def massa () :
     elif imc >= 25.0 and imc <= 39.9:
         print (f"{nome}),seu imc for {imc} de acordo com a faixa e considerado sobrepeso")
     else :
-      print (f"{nome}seu imc for {imc} de acordo com a faiza e considerado obesidade grave")
+      print (f"{nome}seu imc for {imc} de acordo com a faixa e considerado obesidade grave")
 
 massa()
 
